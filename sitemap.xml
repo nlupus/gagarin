@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/posts/checking-things-out/</loc>
+    <lastmod>2019-01-31T07:00:33+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/posts/introducing-hyde/</loc>
     <lastmod>2013-12-28T00:00:00+00:00</lastmod>
   </url>
@@ -29,13 +34,13 @@
   
   <url>
     <loc>http://example.org/</loc>
-    <lastmod>2013-12-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-31T07:00:33+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://example.org/posts/</loc>
-    <lastmod>2013-12-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-31T07:00:33+00:00</lastmod>
     <priority>0</priority>
   </url>
   
